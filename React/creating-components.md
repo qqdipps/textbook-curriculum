@@ -3,6 +3,7 @@
 ## Learning Goals
 - Create our own component
 - Link and render a component from an existing component
+- Add event handlers to a component
 
 Now that we've gotten started with a basic React application, we want to be able to extend it with our own components.
 
@@ -51,6 +52,8 @@ React does not have a nice CLI interface like Rails to create new components for
 
 1. Verify! Take a look now at your React application running in the browser and ensure that you see the elements you added within your list component.
 
+### Eventing
+<<TODO>>
 
 ## Key Takeaway
 Nesting components within one another is the most powerful construct of React. You will structure much of your applications using this paradigm, applying additional patterns and skills to it as you learn.
